@@ -5,7 +5,7 @@ var userId = 0;
 var username = "Guest";
 var gameAuthToken = "";
 var kongregate;
-
+ 
 public var guiSkin : GUISkin;
 
 // Begin the API loading process if it is available
